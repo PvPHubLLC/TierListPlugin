@@ -1,0 +1,16 @@
+
+unranked: "-"
+tier: "{{color}}{{prefix}}{{tier}}"
+
+# Duration between ticks to refresh tierlist cache
+# Note: Placeholders for these lists will not work unless specified a refresh period.
+refresh:
+  vanilla: 72000
+
+color:
+  tier:
+    1: "&a"
+    2: "&a"
+    3: "&a"
+    4: "&a"
+    5: "&a"

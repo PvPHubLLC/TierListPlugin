@@ -1,0 +1,9 @@
+name: TierListPlugin
+version: '${version}'
+main: co.pvphub.tierlist.TierListPlugin
+api-version: 1.20
+prefix: TierList
+authors: [ MattMX ]
+description: Tierlist Placeholders and interaction.
+softdepend:
+  - KtGUI
